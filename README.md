@@ -1,29 +1,131 @@
-# Welcome to your Lovable project
+# 🏨 Luxury Hotel Website Redesign – The Village Dallas
 
-This project was built with [Lovable](https://lovable.dev).
+A premium, modern hotel website redesign concept inspired by **The Village Dallas**. This project demonstrates how immersive UI, smooth animations, and modern web technologies can elevate the digital experience for hospitality brands.
 
-## Build with Lovable
+> **Disclaimer:** This is an independent redesign concept created for portfolio purposes only. It is not affiliated with or endorsed by The Village Dallas.
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+---
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## ✨ Features
 
-## Development
+- Premium luxury-inspired UI
+- Responsive design for desktop, tablet, and mobile
+- Smooth animations and page transitions
+- Interactive sections with modern micro-interactions
+- Elegant booking section
+- Luxury room showcase
+- Amenities & services
+- Interactive gallery
+- Guest testimonials
+- Contact & location section
+- Optimized performance and accessibility
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+---
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+## 🛠 Tech Stack
+
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+- Framer Motion
+- React Three Fiber (Three.js)
+- GSAP
+- Shadcn/UI
+- Lucide Icons
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+ ├── components/
+ ├── pages/
+ ├── assets/
+ ├── hooks/
+ ├── lib/
+ └── styles/
+
+public/
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/umbrr667/village-dallas-redesign.git
+```
+
+### Navigate to the project
+
+```bash
+cd village-dallas-redesign
+```
+
+### Install dependencies
+
+Using Bun
+
+```bash
+bun install
+```
+
+or using npm
+
+```bash
+npm install
+```
+
+### Start the development server
+
+```bash
+bun dev
+```
+
+or
+
+```bash
 npm run dev
 ```
 
-## Built with
+---
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+## 📸 Preview
+
+A modern luxury hotel landing page featuring:
+
+- Cinematic Hero Section
+- Premium Room Showcase
+- Interactive Gallery
+- Luxury Amenities
+- Smooth Scroll Animations
+- Elegant Booking Experience
+- Mobile Responsive Design
+
+---
+
+## 🎯 Purpose
+
+This project was created to demonstrate modern frontend development skills and premium UI implementation for the hospitality industry. It showcases responsive layouts, animation techniques, and immersive user experiences suitable for luxury hotel websites.
+
+---
+
+## 👩‍💻 Author
+
+**Umbar Gul Naz**
+
+AI Automation Engineer | Python Developer | AI Chatbots | AI Voice Agents
+
+- GitHub: https://github.com/umbrr667
+- LinkedIn: https://www.linkedin.com/in/umbar-gul-naz-6aa6b6310/
+- Email: umbargull33@gmail.com
+
+---
+
+## 📄 License
+
+This project is intended for educational and portfolio purposes only.
